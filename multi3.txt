@@ -1,0 +1,6 @@
+>start
+ATG
+>ecori
+GAATTC
+>tata
+TATA
